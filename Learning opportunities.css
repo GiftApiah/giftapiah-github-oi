@@ -1,0 +1,142 @@
+* {
+    
+}
+body{
+    background-color: #333259;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 6rem;
+    box-sizing: border-box;
+}
+span a {
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+li {
+    list-style-type: none;
+    font-size: 1.3rem;
+    display: inline-block;
+    padding-left: 1rem;
+    color: white;
+    margin-left: 3%;
+}
+ul{
+    margin-left: 1%;
+    margin-right: 10%;
+    margin-top: 0;
+    display: inline-flex;
+}
+.sign-in{
+    font-size: 1.2rem;
+    padding: 20px 50px 20px 50px;
+    margin-left: 3rem;
+    background-color: #049DD9;
+    border-radius: 10%;
+    display: flexbox;
+    text-decoration: none;
+    color: white;
+}
+.login{
+    text-decoration: none;
+    color: white;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+.sign-in:hover{
+    background-color: white;
+    color: #049DD9
+}
+span a:hover{
+    background-color: #049DD9;
+    padding: 10px;
+    border-radius: 10%;
+}
+p{
+    color: white;
+    font-size: 2.1rem;
+}
+h1 {
+    color: white;
+    font-size: 5.5rem;
+}
+h2{
+    display: inline-flex;
+    padding-left: 5rem;
+    font-size: 38px;
+    color: white;
+}
+h5{
+    color: #049DD9;
+    font-size: 1.5rem;
+    margin-top: 0;
+}
+.description{
+    margin-bottom: 4rem;
+}
+.quote{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 1.3rem;
+    padding: 20px 50px 20px 50px;
+    background-color: #049DD9;
+    border-radius: 7%;
+}
+.learn-more{
+    text-decoration: none;
+    color: #049DD9;
+    font-size: 1.3rem;
+    font-weight: bold;
+    border: 2px solid;
+    padding: 19px 50px 19px 50px;
+    border-radius: 7%;
+    margin-left: 10px
+}
+.blue-box{
+    border: 2px solid #049DD9;
+    background-color: #049DD9;
+    height: 8rem;
+    width: 7rem;
+    margin-left: 85%;
+    margin-top: 4%
+}
+#math-teacher{
+    width:  35em;
+    height: 40em;
+    margin-left: 55%;
+    margin-righ 30%;
+    position: absolute;
+    display: flex;
+    margin-top: 95px;
+    border-radius: 3%;
+}
+#smiling-girl{
+    position: absolute;
+    margin-left: 50%;
+    margin-right: 10%;
+    margin-top: 21rem;
+    border: 4px solid white;
+    border-radius: 5%;
+    width: 340px;
+    height: 320px
+}
+footer{
+    text-align: center;
+    color: white;
+    margin-top: 15rem;
+    margin-bottom: 0;
+    font-size: 0.3rem;
+}
+footer p a{
+    text-decoration: none;
+    color: white;
+    background-color: #049DD9;
+    padding: 0.3rem;
+    border-radius: 10%
+}
+footer a:hover{
+    text-decoration: none;m
+    border: solid;
+    border-radius: 10%;
+
+}
